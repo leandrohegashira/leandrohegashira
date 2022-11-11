@@ -31,4 +31,4 @@ I'm a web developer and I'm pursuing a degree in Software Analysis and Developme
 - 👤Linkedin: https://www.linkedin.com/in/leandroegashira
 
 
-I'm passionate about technology, financial market and games.
+#### I'm passionate about technology, financial market and games.
