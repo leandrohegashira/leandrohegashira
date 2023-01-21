@@ -19,12 +19,11 @@ I'm a web developer and I'm pursuing a degree in Software Analysis and Developme
   <img align="center" alt="" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
 </div><br> -->
 
-- ⚡️Main language: `Javascript`
-- 📡Backend: `Python`, `NodeJs`
+- ⚡️Backend: `Java`, `Python` 
 - 🚀Frontend: `HTML5`, `CSS3`, `Javascript`, `ReactJs`
 - 🎨Layout Design: `Figma`
 - 📦️Version code control: `Git & Github`
-- 🔧Tools: `VsCode`
+- 🔧Tools: `Intellij`,`VsCode`
 
 ### Current Stack
 - ✉️Email: leandroegashira@gmail.com
